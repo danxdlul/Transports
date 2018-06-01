@@ -1,0 +1,7 @@
+New_York_City                  Washington_DC                  2016                1488       2016/11/8      
+asdasd                         adfadf                         32312               0          2001/9/11      
+asfasf                         asfasf                         0                   123123     2000/1/2       
+asfsafsa                       asfsaf                         123123              123123     2009/3/6       
+asdasd                         asdsadas                       213123              15215      2000/1/2       
+aasdsad                        asdasdsa                       124124              123213     2000/6/4       
+Mekka                          New_York_City                  500000              0          2001/9/11      

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1479586681 source:c:\users\dani\code\fuuuc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"fajlIO.h"
+	"iras.h"
+	"szuresek.h"
+	"transpstruct.h"
+
+1479592495 c:\users\dani\code\fuuuc\fajlio.h
+	"transpstruct.h"
+
+1479589516 c:\users\dani\code\fuuuc\transpstruct.h
+
+1479685397 c:\users\dani\code\fuuuc\iras.h
+	"transpstruct.h"
+	<time.h>
+
+1479589516 c:\users\dani\code\fuuuc\szuresek.h
+	"transpstruct.h"
+
+1479586681 source:c:\users\dani\code\feleves\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"fajlIO.h"
+	"iras.h"
+	"szuresek.h"
+	"transpstruct.h"
+
+1479592495 c:\users\dani\code\feleves\fajlio.h
+	"transpstruct.h"
+
+1479589516 c:\users\dani\code\feleves\transpstruct.h
+
+1479685397 c:\users\dani\code\feleves\iras.h
+	"transpstruct.h"
+	<time.h>
+
+1479589516 c:\users\dani\code\feleves\szuresek.h
+	"transpstruct.h"
+
