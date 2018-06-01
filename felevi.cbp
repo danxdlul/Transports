@@ -31,12 +31,24 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="fajlIO.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="fajlIO.h" />
+		<Unit filename="iras.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="iras.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="szuresek.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="szuresek.h" />
+		<Unit filename="transpstruct.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="transpstruct.h" />
 		<Extensions>
 			<code_completion />

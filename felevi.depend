@@ -45,3 +45,46 @@
 1479589516 c:\users\dani\code\feleves\szuresek.h
 	"transpstruct.h"
 
+1527860309 source:c:\users\lord-\documents\feleves\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"fajlIO.h"
+	"iras.h"
+	"szuresek.h"
+	"transpstruct.h"
+
+1527859055 c:\users\lord-\documents\feleves\fajlio.h
+	"transpstruct.h"
+
+1527859664 c:\users\lord-\documents\feleves\transpstruct.h
+	<stdio.h>
+
+1527862842 c:\users\lord-\documents\feleves\iras.h
+	"transpstruct.h"
+	<time.h>
+
+1527859664 c:\users\lord-\documents\feleves\szuresek.h
+	"transpstruct.h"
+
+1527859636 source:c:\users\lord-\documents\feleves\transpstruct.c
+	"transpstruct.h"
+	<stdio.h>
+
+1527857868 source:c:\users\lord-\documents\feleves\fajlio.c
+	"fajlIO.h"
+
+1527857101 source:c:\users\lord-\documents\feleves\szuresek.c
+	"szuresek.h"
+
+1527860759 source:c:\users\lord-\documents\feleves\iras.c
+	"iras.h"
+	"fajlIO.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+
